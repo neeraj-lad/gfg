@@ -7,3 +7,4 @@
 * Find Zeros to flip to maximize Ones
 * Array to ZigZag
 * Largest Pair Sum
+* Find Peak
